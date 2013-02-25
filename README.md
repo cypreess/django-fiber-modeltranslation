@@ -38,7 +38,7 @@ There will be generated fields: ``name`` , ``name_en``, ``name_pl``.
 You should probably migrate your database, using South is recommended. Migrations should be kept in your local project.
 
 How to migrate fiber with South
-`````````````````````````````
+===============================
 
 Here is some step-by-step example how to turn your legacy django-fiber installation synced using syncdb into translated fiber with South migrations.
 
